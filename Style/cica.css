@@ -1,0 +1,27 @@
+img {
+    width: 100%;
+    height: 300;
+    border-radius: 8px;
+    padding : 5;
+}
+body {
+    background-color: green;
+}
+h1 {
+    text-align: center;
+    font-family: 'Times New Roman';
+    font-size: 22;
+}
+table{
+    width: 100%;
+    height: 100%;
+    border-spacing: 12pt;
+
+}
+td {
+    padding: 0pt;
+    vertical-align: 0pt;
+    text-align: center;
+    height: 25%;
+
+}
