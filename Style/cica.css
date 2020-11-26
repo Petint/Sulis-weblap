@@ -6,6 +6,7 @@ img {
 }
 body {
     background-color: green;
+    background-image: url(grass.webp);
 }
 h1 {
     text-align: center;
