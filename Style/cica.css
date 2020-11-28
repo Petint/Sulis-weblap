@@ -10,7 +10,7 @@ body {
 h1 {
     text-align: center;
     font-family: 'Times New Roman';
-    font-size: 22;
+    font: 33;
 }
 table{
     width: 100%;
