@@ -1,5 +1,4 @@
 # Sulis-weblap
-<<<<<<< HEAD
 Petrás Bálint 2020
 =======
 # Cica update
