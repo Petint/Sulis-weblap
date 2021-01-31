@@ -1,0 +1,23 @@
+h1 
+{
+    margin: 0;
+    text-align: center;
+    text-emphasis-color: #00a900;
+    padding: 5;
+}
+table
+{
+    border: 3;
+    text-align: center;
+    width: 50%;
+}
+body
+{
+    color: #4242c7;
+    background-color: aquamarine;
+    background-color: lightblue;
+}    
+P { font-family: "sans serif";
+  text-align: center;
+  font-family: Arial;
+}

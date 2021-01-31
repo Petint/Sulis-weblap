@@ -9,7 +9,7 @@
             "type": "pwa-chrome",
             "request": "launch",
             "name": "Open index.html",
-            "file": "c:\\Users\\User\\Documents\\Sulis-weblap\\index.html"
+            "file": ".\\index.html"
         }
     ]
 }
